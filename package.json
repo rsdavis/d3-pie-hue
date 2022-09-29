@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "array-shuffle": "^1.0.1",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "papaparse": "^5.0.0"
   }
 }
